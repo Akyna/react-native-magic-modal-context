@@ -158,10 +158,6 @@
       ]
     ]
   },
-  "engines": {
-    "npm": "Please use yarn",
-    "yarn": ">= 1.19.1"
-  },
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.3",
     "lint-staged": "^12.3.4",
